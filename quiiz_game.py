@@ -57,7 +57,7 @@ def lancer_quiz():
     ("Dans quel jeu incarne-t-on un chasseur de monstres dans un monde peuplé de créatures géantes ?", "monster hunter"),
     ("Comment s'appelle l'entreprise maléfique dans la saga Resident Evil ?", "umbrella corporation"),
     ("Dans quel jeu de Nintendo peut-on attraper des créatures et les faire combattre ?", "pokemon"),
-    ("Quel est le nom du plombier emblématique de Nintendo ?", "mario")
+    ("Quel est le nom du plombier emblématique de Nintendo ?", "mario"),
     ("Dans quel jeu incarne-t-on un soldat nommé Master Chief ?", "halo"),
     ("Quel est le nom du scientifique fou dans Half-Life ?", "g-man"),
     ("Comment s'appelle le tueur en série masqué dans Dead by Daylight inspiré de Halloween ?", "michael myers"),
@@ -67,7 +67,7 @@ def lancer_quiz():
     ("Dans quel jeu affronte-t-on des animatroniques effrayants dans une pizzeria ?", "five nights at freddy's"),
     ("Quel est le nom du personnage principal dans Metal Gear Solid ?", "solid snake"),
     ("Dans quel jeu doit-on construire des tours de défense pour empêcher des zombies d'attaquer un jardin ?", "plants vs zombies"),
-    ("Quel est le nom du jeu où l’on incarne un chevalier en 2D avec une pelle ?", "shovel knight")
+    ("Quel est le nom du jeu où l’on incarne un chevalier en 2D avec une pelle ?", "shovel knight"),
     ("Quel est le nom du héros dans la série de jeux Uncharted ?", "nathan drake"),
     ("Dans quel jeu doit-on résoudre des énigmes en manipulant des cubes colorés ?", "portal"),
     ("Comment s'appelle le jeu de survie où l'on doit collecter des ressources pour construire et survivre sur une île ?", "ark survival evolved"),
